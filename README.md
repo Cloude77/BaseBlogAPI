@@ -1,17 +1,11 @@
 # BaseBlogAPI
-<<<<<<< HEAD
-
-# Äîáàâëåíèå serialaizers
-# Ðàçðåøåíèå çàðåãåñòðèðîâàííûì ïîëüçîâàòåëÿì IsAuthenticated
-# Permissiomns.py, view.py (permission_classes = (IsAuthorOrReadOnly,))
-# User Authentication
-# Àóòåíòèôèêàöèÿ íà îñíîâå òîêåíîâ(îäíîñòðàíè÷íûå ïðèëîæåíèÿ)
-# Ñîçäàåì êîíå÷íûå òî÷êè.Django-Rest-Auth(âûõîäà  èç  ñèñòåìû  è  ñáðîñà  ïàðîëÿ. ).Urls.
 
 
+ Ð”Ð¾Ð±Ð°Ð²Ð»ÐµÐ½Ð¸Ðµ serialaizers
+ Ð Ð°Ð·Ñ€ÐµÑˆÐµÐ½Ð¸Ðµ Ð·Ð°Ñ€ÐµÐ³ÐµÑÑ‚Ñ€Ð¸Ñ€Ð¾Ð²Ð°Ð½Ð½Ñ‹Ð¼ Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑÐ¼ IsAuthenticated
+ Permissiomns.py, view.py (permission_classes = (IsAuthorOrReadOnly,))
+ User Authentication
+ ÐÑƒÑ‚ÐµÐ½Ñ‚Ð¸Ñ„Ð¸ÐºÐ°Ñ†Ð¸Ñ Ð½Ð° Ð¾ÑÐ½Ð¾Ð²Ðµ Ñ‚Ð¾ÐºÐµÐ½Ð¾Ð²(Ð¾Ð´Ð½Ð¾ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ‡Ð½Ñ‹Ðµ Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ)
+ Ð¡Ð¾Ð·Ð´Ð°ÐµÐ¼ ÐºÐ¾Ð½ÐµÑ‡Ð½Ñ‹Ðµ Ñ‚Ð¾Ñ‡ÐºÐ¸.Django-Rest-Auth(Ð²Ñ‹Ñ…Ð¾Ð´Ð°  Ð¸Ð·  ÑÐ¸ÑÑ‚ÐµÐ¼Ñ‹  Ð¸  ÑÐ±Ñ€Ð¾ÑÐ°  Ð¿Ð°Ñ€Ð¾Ð»Ñ. ).Urls.
 
-<<<<<<< HEAD
-Your local changes
-=======
-Remote changes
->>>>>>> branch_name
+
