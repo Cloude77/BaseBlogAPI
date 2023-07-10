@@ -1,4 +1,5 @@
 # BaseBlogAPI
+<<<<<<< HEAD
 
 # Добавление serialaizers
 # Разрешение зарегестрированным пользователям IsAuthenticated
@@ -6,3 +7,11 @@
 # User Authentication
 # Аутентификация на основе токенов(одностраничные приложения)
 # Создаем конечные точки.Django-Rest-Auth(выхода  из  системы  и  сброса  пароля. ).Urls.
+
+
+
+<<<<<<< HEAD
+Your local changes
+=======
+Remote changes
+>>>>>>> branch_name
